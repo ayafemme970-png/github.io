@@ -1,5 +1,4 @@
- <html>
-<head>
+
 #inclue< isotreams>
 using namedspace std;
 int main ()
@@ -8,3 +7,4 @@ int main ()
      return 0;
 	 
 }
+
